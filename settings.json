@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "TEC_BLEADS.aternos.me",
+    "port": 17229,
     "version": "1.20.1",
     "try-creative": false
   },
